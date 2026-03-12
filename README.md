@@ -1,5 +1,5 @@
 # DuckTacToe
-DuckTacToe is a variation on the classic game TicTacToe inspired by the chess variant Duck Chess.  
+DuckTacToe is a variation on the classic game TicTacToe inspired by the chess variant Duck Chess.
 Try it at: https://bootupcode.github.io/DuckTacToe/
 
 ## Introduction
