@@ -13,6 +13,6 @@ Standard TicTacToe rules apply:
 - If every square on the board is occupied and there is no winner, the game ends in a draw.
 
 DuckTacToe introduces a variant ruleset:
+- The board is expanded to a four-by-four grid of squares.
 - After placing their mark, players may move a rubber ducky onto an unoccupied square of the board, or leave it in its current position.
 - The rubber ducky occupies its square on the board and prevents players from placing their mark there.
-- The board is expanded to a four-by-four grid of squares.
