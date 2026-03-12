@@ -5,7 +5,8 @@ DuckTacToe is a variation on the classic game TicTacToe inspired by the chess va
 In a game of TicTacToe two players take turns marking the squares in a three-by-three grid, with the goal of completing a straight line of three of their marks.
 DuckTacToe introduces a special rule from Duck Chess, a chess variant where players not only move their own pieces, but also have joint control of a small rubber duck which acts as a blocker for other pieces.
 
-<img width="450" height="450" alt="TicTacToe" src="https://github.com/user-attachments/assets/1f0c5142-f439-4df5-a5ae-c856238be673" /><img width="600" height="600" alt="DuckTacToe" src="https://github.com/user-attachments/assets/5c3ccccf-de11-4f4b-ab3b-2c3e479f47fd" />
+<img width="1200" height="600" alt="DuckTacToe" src="https://github.com/user-attachments/assets/83b09acd-0927-4c51-9547-79654a29a0cd" />
+
 
 
 # Rules
