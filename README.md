@@ -18,7 +18,7 @@ DuckTacToe introduces a variant ruleset:
 - After placing their mark, players may move a rubber ducky onto an unoccupied square of the board, or leave it in its current position.
 - The rubber ducky occupies its square on the board and prevents players from placing their mark there.
 
-<img width="1200" height="600" alt="DuckTacToe" src="https://github.com/user-attachments/assets/740ce9f1-c6e0-4f24-ab22-8d6853096834" />
+<img width="1200" height="650" alt="DuckTacToe" src="https://github.com/user-attachments/assets/67776e1c-4187-440f-99f2-3d91f0ad71cc" />
 Above: a board of DuckTacToe (left) and standard TicTacToe (right)
 
 ## Development
