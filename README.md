@@ -11,7 +11,7 @@ Standard TicTacToe rules apply:
 - The players take turns, placing one mark in an unoccupied square of the board.
 - A player wins when they mark three squares in an uninterrupted straight line in a row, column, or diagonal of the grid.
 - If every square on the board is occupied and there is no winner, the game ends in a draw.
-- 
+
 DuckTacToe introduces a variant ruleset:
 - After placing their mark, players may move a rubber ducky onto an unoccupied square of the board, or leave it in its current position.
 - The rubber ducky occupies its square on the board and prevents players from placing their mark there.
