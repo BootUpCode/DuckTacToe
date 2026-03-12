@@ -1,6 +1,6 @@
 # DuckTacToe
 DuckTacToe is a variation on the classic game TicTacToe inspired by the chess variant Duck Chess.  
-Try it at: https://bootupcode.github.io/DuckTacToe/
+Try it at: https://BootUpCode.github.io/DuckTacToe/
 
 ## Introduction
 In a game of TicTacToe two players take turns marking the squares in a three-by-three grid, with the goal of completing a straight line of three of their marks.
