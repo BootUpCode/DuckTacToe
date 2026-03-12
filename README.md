@@ -18,8 +18,8 @@ DuckTacToe introduces a variant ruleset:
 - After placing their mark, players may move a rubber ducky onto an unoccupied square of the board, or leave it in its current position.
 - The rubber ducky occupies its square on the board and prevents players from placing their mark there.
 
-<img width="1200" height="600" alt="DuckTacToe" src="https://github.com/user-attachments/assets/83b09acd-0927-4c51-9547-79654a29a0cd" />
-Above: a board of standard TicTacToe (left) and DuckTacToe (right)
+<img width="1200" height="600" alt="DuckTacToe" src="https://github.com/user-attachments/assets/740ce9f1-c6e0-4f24-ab22-8d6853096834" />
+Above: a board of DuckTacToe (left) and standard TicTacToe (right)
 
 ## Development
 DuckTacToe was a small project I wrote while learning the basics of React, a free and open-source JavaScript library for the creation of web and native user interfaces. The project was deployed and hosted for free on GitHub Pages, a website hosting service that can be used to publish content based on HTML, CSS, and JavaScript files managed within a GitHub repository.
